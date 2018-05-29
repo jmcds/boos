@@ -6,6 +6,7 @@
 + [区块链相关术语表][1]
 + [区块链术语][2]
 + [区块链技术基础][3]
++ [区块链相关名词解释](https://zhuanlan.zhihu.com/p/23249209)
 
 ## Contact
 + [Github](https://github.com/udtrokia/boos)

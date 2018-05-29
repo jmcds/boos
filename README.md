@@ -8,6 +8,10 @@
 + [区块链技术基础][3]
 + [区块链相关名词解释](https://zhuanlan.zhihu.com/p/23249209)
 
+### 技术/technology
+1. [黑马 120天全栈区块链开发](https://github.com/itheima1/BlockChain)
+2. [黑马 hyperledger fabric](https://github.com/itheima1/hyperledger)
+
 ## Contact
 + [Github](https://github.com/udtrokia/boos)
 
